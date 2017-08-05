@@ -4,3 +4,4 @@ _Hi Everyone_
  *GitHub
  *JavaScript
  *Phyton
+ *Killing history using git rebase
