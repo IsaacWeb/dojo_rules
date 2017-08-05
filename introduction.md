@@ -4,5 +4,4 @@ _Hi Everyone_
  *GitHub
  *JavaScript
  *Phyton
- *zach z
- "killing history using git rebase"
+ *Killing history using git rebase
